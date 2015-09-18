@@ -1,0 +1,24 @@
+{
+  "name": "uikit_tasks",
+  "version": "1.0.0",
+  "authors": [
+    "Daniel <danieliozzi@gmail.com>"
+  ],
+  "description": "Uikit bp based on Uikit own's home page +hack font",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/D10221/my_uikit_bp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "uikit": "~2.22.0"
+  }
+}
